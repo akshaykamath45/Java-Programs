@@ -2,9 +2,9 @@ class Main {
     public static void main(String[] args)
     {
         
-        int arr[][] = new int[3][]; // Declaring 2-D array with 2 rows, Making the above array Jagged
+        int arr[][] = new int[3][]; // Declaring 2-D array with 3 rows, Making the above array Jagged
        
-        arr[0] = new int[1]; // First row has 3 columns
+        arr[0] = new int[1]; // First row has 1 columns
         arr[1] = new int[2]; // Second row has 2 columns
         arr[2] = new int[3]; //Third Row has 3 columns
  
